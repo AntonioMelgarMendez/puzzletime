@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/puzzletime/static/css/main.7ee67771.css",
+    "main.js": "/puzzletime/static/js/main.fba1fd02.js",
+    "static/js/453.3d8ecd0b.chunk.js": "/puzzletime/static/js/453.3d8ecd0b.chunk.js",
+    "static/media/icon.png": "/puzzletime/static/media/icon.4bb7b15e9ae0fb6bcf8e.png",
+    "index.html": "/puzzletime/index.html",
+    "main.7ee67771.css.map": "/puzzletime/static/css/main.7ee67771.css.map",
+    "main.fba1fd02.js.map": "/puzzletime/static/js/main.fba1fd02.js.map",
+    "453.3d8ecd0b.chunk.js.map": "/puzzletime/static/js/453.3d8ecd0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ee67771.css",
+    "static/js/main.fba1fd02.js"
+  ]
+}
